@@ -1,8 +1,8 @@
 import React from 'react';
 
 function App() {
-  const value = 'wathing';
-  return <div>Thank you for {value}</div>;
+  const value = 'for attending';
+  return <div>Thank you {value}</div>;
 }
 
 export default App;
